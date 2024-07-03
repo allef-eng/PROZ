@@ -1,3 +1,0 @@
-Esta é primeira linha de texto
-linha escrita na main
-linha adicionada no repositorio local
