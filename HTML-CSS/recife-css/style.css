@@ -1,12 +1,35 @@
-nav#cabeçalho{
+header,footer{
 
-    background: rgb(173, 173, 228);
-    color: white;
+    background: url(/img/recife-png.png);
+    color: rgb(21, 21, 21);
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     justify-content:space-evenly ;
+    margin: 50px;
 }
 
-body{
-    background: greenyellow;
+.navegacao a {
+
+    font: 20px  Arial, Verdana,Helvetica,sans-serif;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    }
+    
+.navegacao a:hover {
+    background:  #FFC50C;
+    padding: 1px 5px;
+    margin-right:1px;
+    border: 1px solid #000;
 }
+
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+main{
+    background-color: #d8b237;
+    margin: 50px;
+}
+
